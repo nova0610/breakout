@@ -1,1 +1,1 @@
-print('hello luasopia(v1.0.18)')
+Scene.goto('scn_title','fade',1200)
